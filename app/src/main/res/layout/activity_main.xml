@@ -38,7 +38,7 @@
         android:background="@color/colorPrimaryDark"
         android:textColor="@color/text_color"
         android:transitionName="@string/blue_name"
-        android:textSize="20sp"
+        android:textSize="21sp"
         android:layout_marginBottom="25dp"
         />
     <TextView
@@ -65,7 +65,7 @@
         android:textColor="@color/text_color"
         android:transitionName="@string/orange_name"
         android:layout_marginBottom="25dp"
-        android:textSize="20sp"
+        android:textSize="21sp"
         />
     <Button
         android:layout_gravity="center"
